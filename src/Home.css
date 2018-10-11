@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+
+.page {
+background-image: url('./Book.jpg');
+height: 45em;
+background-size: cover;
+text-align: center;
+}
+.me {
+    border-radius: 50%
+}
+.about {
+    display: inline;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: antiquewhite;
+    text-shadow: 2px 2px 0px #000;
+    font-size: 2em;
+}
+.link {
+    text-decoration: none;
+}
+.work {
+background-image: url('science.jpg');
+height: 45em;
+background-size: cover;
+text-align: center;
+}
+.hobbies {
+    background-image: url('./Block1.jpg');
+height: 45em;
+background-size: cover;
+text-align: center;
+}
